@@ -133,4 +133,4 @@ I imported the map image produced by QGIS Print Composer on top of a dark blue b
 
 ## The final result
 
-![Cycle map](../images/posts/bristol_landsend_small.png "Cycle map, contains OS GB data")
+![Cycle map](../images/posts/2019-02-13-cycle-map.png "title text")
