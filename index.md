@@ -14,6 +14,7 @@ I have developed **GeoRaster**, a Python package for working with geographic ras
 Please feel free to get in touch: 
  
 Fribourg: <small>`andrew.tedstone at unifr.ch` </small>
+
 Bristol: <small>`a.j.tedstone at bristol.ac.uk`</small>
 
 
