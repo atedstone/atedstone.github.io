@@ -6,7 +6,7 @@
 name: Andrew Tedstone
 
 # Short bio or description (displayed in the header)
-description: 
+description: Glaciologist
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
@@ -18,7 +18,7 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: a.j.tedstone@bristol.ac.uk
+  email: andrew.tedstone@unifr.ch
   facebook:
   flickr:
   github: atedstone
