@@ -4,10 +4,18 @@ title: Research
 permalink: /research/
 ---
 
+## Melting, hydrology and ice flow at high elevations of the Greenland Ice Sheet
+ 
+** FlowState: SNF-funded project beginning August 2024 at the University of Lausanne **
+
+The shrinkage of the Greenland Ice Sheet is a major source of global sea level rise, affecting millions of inhabitants of coastal areas and exerting major impacts on biogeochemical cycling in Arctic waters. However, 21st century ice sheet mass losses under climate change are uncertain. A critical gap in our understanding is the ice-dynamic behaviour at higher elevations of the ice sheet. If ice flow in these areas speeds up then ice will be fluxed to lower, warmer elevations more rapidly, where it will melt and run off to the ocean more quickly. In recent years substantial surface melting has been observed at higher elevations. This raises the question: is the dynamic stability of higher elevations sensitive to surface meltwater?
+
+In ‘FlowState’, the overarching objective is to quantify the impact of high-elevation surface melting upon the ice sheet’s dynamic stability through the 21st century and beyond. We will measure and then model coupled basal hydrology and ice flow in areas where surface meltwater drains through kilometres-plus thick ice. 
+
+
 ## The runoff limits of the Greenland Ice Sheet
 
-The aim of this project is to track the changing runoff limits of the GrIS, to understand how changing surface conditions impact upon ice sheet runoff and the global sea level budget. I have led the mapping the runoff limits throughout the satellite era and have undertaken field campaigns to enhance our understanding of the hydrology of icy firn. I advise Nicolas Jullien on his PhD thesis investigating sub-surface ice presence by airborne radar, and I co-supervise Nicole Clerx on her PhD thesis measuring and modelling meltwater transport around the runoff limit. This work is part of the ERC-funded 'Cassandra' project awarded to Dr. Horst Machguth.
-
+The aim of this project is to track the changing runoff limits of the GrIS, to understand how changing surface conditions impact upon ice sheet runoff and the global sea level budget. I have led the mapping the runoff limits throughout the satellite era and have undertaken field campaigns to enhance our understanding of the hydrology of icy firn. I advise Nicolas Jullien on his PhD thesis investigating sub-surface ice presence by airborne radar, and I co-supervise Nicole Clerx on her PhD thesis measuring and modelling meltwater transport around the runoff limit. This work is part of the ERC-funded 'Cassandra' project awarded to Prof. Horst Machguth.
 
 
 ## Darkening of bare ice surfaces of the GrIS
@@ -27,7 +35,7 @@ The project brought together a range of experts in micro-biology, atmospheric ch
 The whole project consisted of four work packages delivered across five institutions along with several other partners.
 
 
-## Greenland Ice Sheet dynamics
+## Greenland Ice Sheet margin dynamics
 Each summer, areas of the Greenland Ice Sheet's surface melt. Observations show that this surface meltwater can drain to the bed of the ice sheet via supraglacial lake drainage, moulins and crevasses. 
 
 Once this meltwater arrives at the ice sheet bed it changes the amount of friction and contact between the ice and its bed. In turn this allows surface meltwater to affect the speed at which the ice flows downhill.

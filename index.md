@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<img style="float: right; max-width:30%; height:auto;" src="images/9568_brighter-3_circular.jpg" alt="Andrew Tedstone profile pic" />
+<img style="float: right; max-width:30%; height:auto; margin:3%" src="images/9568_brighter-3_circular.jpg" alt="Andrew Tedstone profile pic" />
 
 **I am a glaciologist working on the mass balance of the Greenland Ice Sheet.** I use a combination of field measurements, remotely-sensed data and computer models to explore the vulnerability of the Greenland Ice Sheet to projected climate change. I have particular interests in the manipulation and analysis of large, multi-dimensional datasets.
 
