@@ -6,7 +6,7 @@ permalink: /research/
 
 ## Melting, hydrology and ice flow at high elevations of the Greenland Ice Sheet
  
-** FlowState: SNF-funded project beginning August 2024 at the University of Lausanne **
+** FlowState: Swiss National Science Foundation Starting Grant at the University of Lausanne, 2024-2029 **
 
 The shrinkage of the Greenland Ice Sheet is a major source of global sea level rise, affecting millions of inhabitants of coastal areas and exerting major impacts on biogeochemical cycling in Arctic waters. However, 21st century ice sheet mass losses under climate change are uncertain. A critical gap in our understanding is the ice-dynamic behaviour at higher elevations of the ice sheet. If ice flow in these areas speeds up then ice will be fluxed to lower, warmer elevations more rapidly, where it will melt and run off to the ocean more quickly. In recent years substantial surface melting has been observed at higher elevations. This raises the question: is the dynamic stability of higher elevations sensitive to surface meltwater?
 
